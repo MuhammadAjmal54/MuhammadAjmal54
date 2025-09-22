@@ -19,4 +19,4 @@
 `Microsoft SQL Server` `MySQL` `SQLite` `Git` `GitLab`
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajahassan38201&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAjmal54&show_icons=true&theme=radical)
