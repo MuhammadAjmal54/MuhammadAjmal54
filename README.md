@@ -1,18 +1,158 @@
-# 💫 About Me:
-⭐ AI Engineer passionate about building intelligent applications using Generative AI and LLMs.<br>⭐ Experienced in developing AI Agents, Multi-Agent Systems, and Retrieval-Augmented Generation (RAG) solutions.<br>⭐ Proficient in Python, LangChain, LangGraph, Google ADK, and Google Gemini.<br>⭐ Experienced in building LLM-powered applications, AI automation workflows, and machine learning models.<br>⭐ Skilled in backend development using FastAPI, Django, REST APIs, and database technologies.<br>⭐ Familiar with Docker, AWS, UiPath RPA, and scalable application development.<br>⭐ Passionate about solving real-world problems through Agentic AI, automation, and innovative technologies.
+```{=html}
+<!--
+  GitHub Profile README
+  Replace any social/profile URLs if you want to use different accounts.
+-->
+```
+# Hi, I'm Muhammad Ajmal 👋
 
+### AI Engineer \| Agentic AI \| RAG \| LLM Applications
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ChaudharyMAjmalChadhar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/MuhammadAjmalChadhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ajmal-103aaa311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadajmalchadhar@gmail.com) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MuhammadAjmal54&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MuhammadAjmal54&theme=default&hide_border=false)<br/>
+⭐ AI Engineer passionate about building intelligent applications using
+Generative AI and LLMs.\
+⭐ Experienced in developing AI Agents, Multi-Agent Systems, and
+Retrieval-Augmented Generation (RAG) solutions.\
+⭐ Proficient in Python, LangChain, LangGraph, Google ADK, and Google
+Gemini.\
+⭐ Experienced in building LLM-powered applications, AI automation
+workflows, and machine learning models.\
+⭐ Skilled in backend development using FastAPI, Django, REST APIs, and
+database technologies.\
+⭐ Familiar with Model Context Protocol (MCP), LLM Evaluation, Docker,
+AWS, and UiPath RPA.\
+⭐ Passionate about solving real-world problems through Agentic AI,
+automation, and innovative technologies.
+
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ChaudharyMAjmalChadhar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MuhammadAjmalChadhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ajmal-103aaa311/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadajmalchadhar@gmail.com)
+
+## 💻 Tech Stack
+
+### 🤖 Generative AI & Agentic AI
+
+![Generative
+AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-20232A?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Google
+ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A7EA4?style=for-the-badge) ![AI
+Agents](https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge)
+![Multi-Agent
+Systems](https://img.shields.io/badge/Multi--Agent_Systems-6A5ACD?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP_Model_Context_Protocol-5B5FC7?style=for-the-badge)
+![LLM
+Evals](https://img.shields.io/badge/LLM_Evaluation-008272?style=for-the-badge)
+![Prompt
+Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=for-the-badge)
+
+### 🧠 Machine Learning & Data Science
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-336791?style=for-the-badge)
+![Deep
+Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![Computer
+Vision](https://img.shields.io/badge/Computer_Vision-008B8B?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-%20white?style=for-the-badge&logo=opencv&logoColor=white)
+
+### ⚙️ Backend, APIs & Web Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST
+APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind
+CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### ☁️ DevOps, Cloud & Automation
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker
+Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA_Automation-5B5FC7?style=for-the-badge)
+
+## 🛠️ Languages & Tools
+
+```{=html}
+<!-- Skill icons are displayed in a compact grid, similar to the reference image. -->
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,js,html,css,django,fastapi,react,nextjs,nodejs,express,tailwind,bootstrap" alt="Programming languages and web development tools" />`{=html}
+
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=tensorflow,opencv,mongodb,postgres,mysql,sqlite,docker,aws,git,github,gitlab,vscode" alt="AI, databases, cloud and developer tools" />`{=html}
+
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />`{=html}
+`<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" alt="LangGraph" />`{=html}
+`<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK" />`{=html}
+`<img src="https://img.shields.io/badge/MCP-5B5FC7?style=flat-square" alt="Model Context Protocol" />`{=html}
+`<img src="https://img.shields.io/badge/LLM_Evals-008272?style=flat-square" alt="LLM Evaluations" />`{=html}
+`<img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath" />`{=html}
+
+```{=html}
+</p>
+```
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=MuhammadAjmal54&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=MuhammadAjmal54&theme=default&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadAjmal54&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+------------------------------------------------------------------------
+
 [![](https://komarev.com/ghpvc/?username=MuhammadAjmal54&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```{=html}
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+```
